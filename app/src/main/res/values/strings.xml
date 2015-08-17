@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Multitouch Test</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="no_touch">Don\'t support touchscreen</string>
+    <string name="one_finger_touch">Support one pointer</string>
+    <string name="two_fingers_touch">Support two pointers</string>
+    <string name="multifinger_touch">Support multiple pointers</string>
+
+</resources>
